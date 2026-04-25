@@ -429,5 +429,5 @@ FodyWeavers.xsd
 *.msp
 
 # DrawIO backup and temporal files
-.drawio.bkp
-.drawio.dtmp
+*.drawio.bkp
+*.drawio.dtmp
